@@ -1,7 +1,7 @@
 {
   "name": "web2-upload-server",
   "version": "1.0.0",
-  "description": "Server for WEB2 project",
+  "description": "Upload server for WEB2 project",
   "main": "src/index.ts",
   "scripts": {
     "start": "node dist/src/index.js",
